@@ -10,11 +10,10 @@
                         <li>Grundlagen PHP</li>
                         <li>Grundlagen CSS</li>
                         <li>Grundlagen GIT</li>
-
                         </ul>
                     </div>
                 </div>
-                <img class="img-fluid" src="assets/img/ipad.png" alt="..." />
+                <img class="img-fluid" src="assets/img/php.jpg" alt="..." />
             </div>
         </section>
 <?php  require_once(".\layout\\footer.php") ?>
