@@ -12,6 +12,7 @@
                         <li class="nav-item"><a class="nav-link" href="projects.php">Projects</a></li>
                         <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                         <li class="nav-item"><a class="nav-link" href="secret.php">Secret</a></li>
+                        <li class="nav-item"><a class="nav-link" href="login.php">Login</a></li>
                     </ul>
                 </div>
             </div>

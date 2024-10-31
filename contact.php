@@ -1,6 +1,12 @@
 <?php  require_once(".\layout\header.php") ?>
  <!-- Contact-->
- <section class="contact-section bg-black">
+ <br>
+ <br>
+ <br>
+ <br>
+
+ 
+ <section class="signup-section" id="signup">
      <div class="container px-4 px-lg-5">
          <div class="row gx-4 gx-lg-5">
              <div class="col-md-4 mb-3 mb-md-0">
@@ -34,6 +40,9 @@
                  </div>
              </div>
          </div>
+</section>
+
+<section class="contact-section bg-black">
          <div class="social d-flex justify-content-center">
              <a class="mx-2" href="#!"><i class="fab fa-twitter"></i></a>
              <a class="mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
